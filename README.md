@@ -46,7 +46,7 @@ A python program for call centers.
  
  - **How To Chage The Client Feild Formats**
  
- *"[[{Attribute Visable Bool}, "{Attribute Format}"], [{Attribute 2 Visable Bool}, "{Attribute 2 Format}"],...]]"*
+ *"[[{Attribute Visable Bool}, {Attribute Format}], [{Attribute 2 Visable Bool}, {Attribute 2 Format}],...]]"*
  ```
  [True, "~"]     # Show Item Normally
  [False, "~"]    # Hide Item, But Dont Format It
