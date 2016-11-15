@@ -12,7 +12,7 @@ A python program for call centers.
  
  - **How To Change Shop Type**
  
- **Note** Use Advanced List As Default
+ **Note:** Use Advanced List As Default
  
  > Advanced List lets the user pick more than one type of item.
  
@@ -39,7 +39,7 @@ A python program for call centers.
  ```
  maxItems = [10,10,10,10,10,10]
  ```
- **Warning** Make sure that the indexs of the Max Items Array and the Item Array Match
+ **Warning:** Make sure that the indexs of the Max Items Array and the Item Array Match
  
  - **How To Chage The Client Feilds**
  
@@ -64,4 +64,4 @@ A python program for call centers.
 
  - Double Click On 'start.bat'
 
-**Warning** Orders WILL Be Lost Once The Programme Has Been Quit!
+**Warning:** Orders WILL Be Lost Once The Programme Has Been Quit!
