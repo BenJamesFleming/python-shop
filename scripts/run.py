@@ -8,7 +8,7 @@ from _base import *
 clear()
 
 # Public Variables
-debugMode = True
+debugMode = False
 use_colors = False
 is_list =  False
 is_advanced_list = True
