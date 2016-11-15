@@ -8,7 +8,7 @@ A python program for call centers.
 
 # How To Setup:
 
- - Edit 'run.py'
+ - **Edit 'run.py'**
  
  - **How To Add Items**
  ```
@@ -21,12 +21,16 @@ A python program for call centers.
     Item("Clear", "Umbrella", 39.00, {'1':'4','2':'7','3':'7','4':'13'}),
 ]
  ```
+ 
  - **How To Chage Max Items**
  ```
  maxItems = [10,10,10,10,10,10]
  ```
- ***Make sure that the tndexs of the Max Items Array and the Item Array Match***
+ 
+ **Warning** Make sure that the indexs of the Max Items Array and the Item Array Match
+ 
  - **How To Chage The Client Feilds**
+ 
  *"{Client Attribute};{Attribute Type}:{Attribute Format}|{Client Attribute 2};{Attribute 2 Type}:{Attribute 2 Format}|..."*
  ```
  clientFeilds = "Full Name;string:>,0|Phone Number;number|Post Code;number:=,4"
