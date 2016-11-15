@@ -11,8 +11,11 @@ A python program for call centers.
  - **Edit 'run.py'**
  
  - **How To Change Shop Type**
+ 
  **Note** Use Advanced List As Default
+ 
  Advanced List lets the user pick more than one type of item.
+ 
  *Standard* List only lets the ser pick one item.
  ```
   is_list =  False
